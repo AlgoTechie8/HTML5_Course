@@ -1,1 +1,1 @@
-HTML5 Course - Practice done of all tags. 
+HTML5 Course - Practice done on all tags. 
